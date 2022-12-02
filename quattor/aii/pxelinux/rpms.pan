@@ -14,11 +14,11 @@
 #
 
 # #
-# pxelinux, 21.12.0, 1, Fri Dec 24 2021
+# pxelinux, 21.12.1-SNAPSHOT, SNAPSHOT20221202140742, Fri Dec 02 2022
 #
 
 # Template adding aii-pxelinux rpm to the configuration
 
 unique template quattor/aii/pxelinux/rpms;
 
-"/software/packages" = pkg_repl("aii-pxelinux", "21.12.0-1", "noarch");
+"/software/packages" = pkg_repl("aii-pxelinux", "21.12.1-SNAPSHOT20221202140742", "noarch");

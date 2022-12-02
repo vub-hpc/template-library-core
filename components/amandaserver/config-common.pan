@@ -11,7 +11,7 @@
 
 # 
 # #
-# amandaserver, 21.12.0, 1, Fri Dec 24 2021
+# amandaserver, 21.12.1-SNAPSHOT, SNAPSHOT20221202140314, Fri Dec 02 2022
 #
 
 unique template components/amandaserver/config-common;
@@ -21,7 +21,7 @@ include 'components/amandaserver/schema';
 # Set prefix to root of component configuration.
 prefix '/software/components/amandaserver';
 
-#'version' = '21.12.0';
+#'version' = '21.12.1-SNAPSHOT';
 #'package' = 'NCM::Component';
 
 'active' ?= true;

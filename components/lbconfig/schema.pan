@@ -14,7 +14,7 @@
 #
 
 # #
-# lbconfig, 21.12.0, 1, Fri Dec 24 2021
+# lbconfig, 21.12.1-SNAPSHOT, SNAPSHOT20221202140736, Fri Dec 02 2022
 #
 #
 

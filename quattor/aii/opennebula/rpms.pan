@@ -11,11 +11,11 @@
 
 # 
 # #
-# opennebula, 21.12.0, 1, Fri Dec 24 2021
+# opennebula, 21.12.1-SNAPSHOT, SNAPSHOT20221202140745, Fri Dec 02 2022
 #
 
 # Template adding ncm-opennebula rpm to the configuration
 
 unique template quattor/aii/opennebula/rpms;
 
-"/software/packages" = pkg_repl("ncm-opennebula", "21.12.0-1", "noarch");
+"/software/packages" = pkg_repl("ncm-opennebula", "21.12.1-SNAPSHOT20221202140745", "noarch");

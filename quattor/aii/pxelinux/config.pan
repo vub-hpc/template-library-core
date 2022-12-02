@@ -14,7 +14,7 @@
 #
 
 # #
-# pxelinux, 21.12.0, 1, Fri Dec 24 2021
+# pxelinux, 21.12.1-SNAPSHOT, SNAPSHOT20221202140742, Fri Dec 02 2022
 #
 
 unique template quattor/aii/pxelinux/config;

@@ -14,7 +14,7 @@
 #
 
 # #
-# wlconfig, 21.12.0, 1, Fri Dec 24 2021
+# wlconfig, 21.12.1-SNAPSHOT, SNAPSHOT20221202140736, Fri Dec 02 2022
 #
 
 unique template components/wlconfig/config-common;
@@ -24,7 +24,7 @@ include 'components/wlconfig/schema';
 # Set prefix to root of component configuration.
 prefix '/software/components/wlconfig';
 
-'version' = '21.12.0';
+'version' = '21.12.1';
 #'package' = 'NCM::Component';
 
 'active' ?= true;

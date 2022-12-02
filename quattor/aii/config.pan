@@ -16,7 +16,7 @@
 #
 
 # #
-# server, 21.12.0, 1, Fri Dec 24 2021
+# server, 21.12.1-SNAPSHOT, SNAPSHOT20221202140742, Fri Dec 02 2022
 #
 #
 # This file is the standard aii configuration. It only performs some

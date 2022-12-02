@@ -14,11 +14,11 @@
 #
 
 # #
-# dhcp, 21.12.0, 1, Fri Dec 24 2021
+# dhcp, 21.12.1-SNAPSHOT, SNAPSHOT20221202140742, Fri Dec 02 2022
 #
 
 # Template adding aii-dhcp rpm to the configuration
 
 unique template quattor/aii/dhcp/rpms;
 
-"/software/packages" = pkg_repl("aii-dhcp", "21.12.0-1", "noarch");
+"/software/packages" = pkg_repl("aii-dhcp", "21.12.1-SNAPSHOT20221202140742", "noarch");
